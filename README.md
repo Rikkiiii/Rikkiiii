@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yuxin Lang
 
-## ✨ Personal Statement
+## ✨ Welcome!
 
 I’m currently a graduated Master's student in **Analytics** at *Auckland University of Technology*, with strong interests in **data-driven risk assessment**, **forecasting models**, and **statistical decision-making**.
 
@@ -15,10 +15,15 @@ These experiences have shaped my **analytical thinking**, **attention to detail*
 ## 📰 News
 
 -🧪 **Apr. 2025** – Successfully completed Research Assistantship at Auckland University of Technology, where I developed forecasting models (LSTM, Random Forest) to predict electricity price risk. (Auckland 🇳🇿)
+
 -👩‍🏫 **Mar. 2024 – Jul. 2024** – Worked as a Teaching Assistant at AUT, helping 30+ students understand analytical and statistical modelling techniques.(Auckland 🇳🇿)
+
 -🎓 **Jul. 2023** – Started Master of Analytics at Auckland University of Technology, focusing on forecasting, time series, and financial mathematics.(Auckland 🇳🇿)
--🌐 **Oct. 2022** – Completed internship at Sinosoft Co., Ltd (Beijing), where I analysed over 3 million population records for regional epidemic risk management.  
+
+-🌐 **Oct. 2022** – Completed internship at Sinosoft Co., Ltd (Beijing), where I analysed over 3 million population records for regional epidemic risk management.
+
 -🌐 **Dec. 2020** – Concluded internship at the Beijing Statistics Bureau, contributing to national census data collection and improving documentation accuracy by 12%.(Beijing 🇨🇳)
+
 -🎓 **Jun. 2022** – Graduated with a Bachelor of Science from North China University of Technology, majoring in statistics, programming, and economic analytics. (Beijing 🇨🇳)
 
 ---
